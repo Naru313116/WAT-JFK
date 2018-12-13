@@ -1,0 +1,9 @@
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\bin\Debug\Class.cs
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\obj\Debug\JFK.csprojAssemblyReference.cache
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\obj\Debug\JFK.csproj.CoreCompileInputs.cache
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\naru3\Desktop\projekty\JFK\2 LAB\Synthesis\obj\Debug\Synthesis.pdb
